@@ -1,0 +1,4 @@
+#Wed Apr 08 21:51:28 EDT 2020
+base.0=/Users/ajitbhat/Desktop/Sem2/DS586/PA2PartB/GroupMessenger2/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
